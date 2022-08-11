@@ -17,6 +17,6 @@
 > While the PIR sensor is calibrating don't be in it's view for the best results.
 
 ### Extras
-> The .ckt files are actual copies of the images above where the circuts can be viewed and edited in Cirkit Designer.\
+> The .ckt files are actual copies of the images above where the circuits can be viewed and edited in Cirkit Designer.\
 > This program can be downloaded [here](https://www.cirkitstudio.com/).\
-> This part isn't important for getting this cricut to work. This is just the software I used to model the cricuts.
+> This part isn't important for getting this circuit to work. This is just the software I used to model the circuits.
